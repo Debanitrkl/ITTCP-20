@@ -35,5 +35,5 @@ Open a browser at http://127.0.0.1:8050
 
 ## Screenshots
 
-![brain.png](Screenshot(1).png)
+![brain.png](Screenshot%20(1).png)
 
