@@ -1,4 +1,4 @@
-# Dash Brain Viewer
+# Brain Viewer
 
 ## About this app
 This a prototype app presently in development phase
