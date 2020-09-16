@@ -1,7 +1,7 @@
 # Dash Brain Viewer
 
 ## About this app
-
+This a prototype app presently in development phase
 This app is developed by team-4 for ITTCP-2020 India 
 This demo represents a brain model. The user is able to annotate the brain, also restructure the volumetric 3-D imaging.
 
