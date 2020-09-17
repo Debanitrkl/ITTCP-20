@@ -31,7 +31,8 @@ Run the app:
 ```bash
 python app.py
 ```
-Open a browser at http://127.0.0.1:8050
+Open a browser at http://127.0.0.1:8050 \n
+The app is hosted in a website which is under progress
 
 ## Screenshots
 
