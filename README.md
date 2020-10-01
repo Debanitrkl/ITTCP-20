@@ -4,6 +4,7 @@
 This a prototype app presently in development phase
 This app is developed by team-4 for ITTCP-2020 India 
 This demo represents a brain model. The user is able to annotate the brain, also restructure the volumetric 3-D imaging.
+Now since the ITTCP-20 is over wwe are planning to make this an opensource software.
 
 
 ## How to run this app
